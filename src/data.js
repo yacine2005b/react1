@@ -1,7 +1,7 @@
 export const data = [
     {
     img : require("./assets/esp.png"),
-    title:'Spain Madrid ',
+    title:'spain madrid ',
     desc :'5 Star hotel',
     reveiw:4.98,
     price:150+ ' per night',
@@ -9,7 +9,7 @@ export const data = [
     },
     {
         img : require("./assets/esp2.png"),
-        title:'German,Berlin',
+        title:'Germany Berlin',
         desc :'5 Star hotel ',
         reveiw:4.75,
         price:175+ ' per night',
@@ -17,7 +17,7 @@ export const data = [
         },
         {
             img : require("./assets/eqp3.png"),
-            title:'algeria,Oran',
+            title:'France Paris ',
             desc :'5 Star hotel ',
             reveiw:4.80,
             price:125+ ' per night',
@@ -25,13 +25,12 @@ export const data = [
             },
             {
                 img : require("./assets/esp4.png"),
-                title:'Turkey,Istanbul ',
-                desc :'5 Star hotel with beach and nice view ',
+                title:'France Paris ',
+                desc :'5 Star hotel ',
                 reveiw:4.80,
                 price:99+ ' per night',
                 date :'11-17 oct',
                 },
-    
+
 
 ]
-

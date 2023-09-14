@@ -1,8 +1,8 @@
 import Cards from './Components/Cards'
+
 import {data} from './data'
 export default function App(){
-    const datashow =data.map((item,index) => <Cards 
-        key={index}
+    const datashow =data.map(item => <Cards 
         img={item.img} 
          title={item.title} 
         desc={item.desc} 
@@ -11,5 +11,8 @@ export default function App(){
         date ={item.date}/>
         )
 
-    return <div className='cards'>{datashow}</div>
+    return <div className='cards'>
+     
+      {datashow}
+      </div>
 }
