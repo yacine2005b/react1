@@ -50,11 +50,15 @@ body {
    
 
 }
-.card p i {
+.review {
+    display: flex;
+}
+ i {
     font-size: 16px;
 }
 .card p i:hover {
     color: gold;
+    cursor: pointer;
 }
 .card img:hover {
     border: 2px black solid;
