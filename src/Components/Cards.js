@@ -9,6 +9,6 @@ export default function Cards(props) {
         </div>
         <h4>{props.desc}</h4>
         <h4>{props.date}</h4>
-        <p className="price">${props.price}</p>
+        <p className="price"><b>${props.price}</b> per night</p>
     </div>
 }

@@ -31,6 +31,7 @@ body {
     width: 290px;
     padding: 10px;
     margin: auto;
+    cursor: pointer;
 }
 .card h1 {
     font-weight: 500;
