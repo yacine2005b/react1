@@ -1,4 +1,5 @@
-import Star from "./Star"
+import Star from './Star'; 
+
 export default function Cards(props) {
     return <div className="card">
        <img src={props.img} alt="img" className="img"/>
