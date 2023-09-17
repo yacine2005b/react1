@@ -1,6 +1,6 @@
 export default function NavBar() {
   return (
-    <nav>
+    <header>
       <ul>
         <li>
           <a href="#">Home</a>
@@ -14,7 +14,10 @@ export default function NavBar() {
         <li>
           <a href="#">About us</a>
         </li>
+        <li>
+          <i class="fa-solid fa-bars"></i>
+        </li>
       </ul>
-    </nav>
+    </header>
   );
 }
