@@ -1,5 +1,5 @@
 import Cards from "./Components/Cards";
-import NavBar from "./Components/NavBar";
+import NavBar from "./Components/Navbar";
 
 import { data } from "./data";
 export default function App() {

@@ -33,6 +33,7 @@ header ul li a {
 a:hover {
   color: #fca311;
 }
+
 ul li i {
   visibility: hidden;
 }
@@ -90,13 +91,18 @@ i {
 .card img:hover .overlay {
   opacity: 1;
 }
-.overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
-  opacity: 0;
-  transition: opacity 0.3s ease;
+.footer {
+  display: flex;
+}
+.footer i {
+  font-size: 25px;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 5px;
+}
+.footer a {
+  margin-right: 20px;
 }
