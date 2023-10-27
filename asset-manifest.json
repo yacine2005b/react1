@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/react1/static/css/main.0ff98eb0.css",
-    "main.js": "/react1/static/js/main.1d46a8ff.js",
-    "static/media/fa-solid-900.ttf": "/react1/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
-    "static/media/fa-brands-400.ttf": "/react1/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
-    "static/media/fa-solid-900.woff2": "/react1/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
-    "static/media/fa-brands-400.woff2": "/react1/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
-    "static/media/fa-regular-400.ttf": "/react1/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
-    "static/media/esp.png": "/react1/static/media/esp.2197fa5d1d43b855bf47.png",
-    "static/media/losangeles.png": "/react1/static/media/losangeles.d9777314ff166b4c6113.png",
-    "static/media/milan.png": "/react1/static/media/milan.93c214f5b21d6ac1f786.png",
-    "static/media/lyon.png": "/react1/static/media/lyon.3ac9ff8a171691f2e60d.png",
-    "static/media/fa-regular-400.woff2": "/react1/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
-    "static/media/esp2.png": "/react1/static/media/esp2.2d5552cefa6e2d876360.png",
-    "static/media/barcelona.png": "/react1/static/media/barcelona.924ab3989776e7e64468.png",
-    "static/media/eqp3.png": "/react1/static/media/eqp3.f261823848c33daa7fe1.png",
-    "static/media/esp4.png": "/react1/static/media/esp4.9394103913712475e467.png",
-    "static/media/fa-v4compatibility.ttf": "/react1/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
-    "static/media/fa-v4compatibility.woff2": "/react1/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
-    "index.html": "/react1/index.html",
-    "main.0ff98eb0.css.map": "/react1/static/css/main.0ff98eb0.css.map",
-    "main.1d46a8ff.js.map": "/react1/static/js/main.1d46a8ff.js.map"
+    "main.css": "/yacine2005b/react1/static/css/main.0e91567a.css",
+    "main.js": "/yacine2005b/react1/static/js/main.98855b59.js",
+    "static/media/fa-solid-900.ttf": "/yacine2005b/react1/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/yacine2005b/react1/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/yacine2005b/react1/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/yacine2005b/react1/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/yacine2005b/react1/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/esp.png": "/yacine2005b/react1/static/media/esp.2197fa5d1d43b855bf47.png",
+    "static/media/losangeles.png": "/yacine2005b/react1/static/media/losangeles.d9777314ff166b4c6113.png",
+    "static/media/milan.png": "/yacine2005b/react1/static/media/milan.93c214f5b21d6ac1f786.png",
+    "static/media/lyon.png": "/yacine2005b/react1/static/media/lyon.3ac9ff8a171691f2e60d.png",
+    "static/media/fa-regular-400.woff2": "/yacine2005b/react1/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/esp2.png": "/yacine2005b/react1/static/media/esp2.2d5552cefa6e2d876360.png",
+    "static/media/barcelona.png": "/yacine2005b/react1/static/media/barcelona.924ab3989776e7e64468.png",
+    "static/media/eqp3.png": "/yacine2005b/react1/static/media/eqp3.f261823848c33daa7fe1.png",
+    "static/media/esp4.png": "/yacine2005b/react1/static/media/esp4.9394103913712475e467.png",
+    "static/media/fa-v4compatibility.ttf": "/yacine2005b/react1/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/yacine2005b/react1/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/yacine2005b/react1/index.html",
+    "main.0e91567a.css.map": "/yacine2005b/react1/static/css/main.0e91567a.css.map",
+    "main.98855b59.js.map": "/yacine2005b/react1/static/js/main.98855b59.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ff98eb0.css",
-    "static/js/main.1d46a8ff.js"
+    "static/css/main.0e91567a.css",
+    "static/js/main.98855b59.js"
   ]
 }
